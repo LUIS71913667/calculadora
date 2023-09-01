@@ -1,0 +1,17 @@
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\bin\Debug\net6.0-windows\LaCalculadora I.exe
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\bin\Debug\net6.0-windows\LaCalculadora I.deps.json
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\bin\Debug\net6.0-windows\LaCalculadora I.runtimeconfig.json
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\bin\Debug\net6.0-windows\LaCalculadora I.dll
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\bin\Debug\net6.0-windows\LaCalculadora I.pdb
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora_I.Form1.resources
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.dll
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\refint\LaCalculadora I.dll
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.pdb
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\LaCalculadora I.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\C# vv\LaCalculadora I\obj\Debug\net6.0-windows\ref\LaCalculadora I.dll
