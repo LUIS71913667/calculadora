@@ -151,7 +151,15 @@ namespace LaCalculadora_I
                     break;
 
                 case "*":
-                    txtScreen.Text = $"{num1 + num2}";
+                    txtScreen.Text = $"{num1 * num2}";
+                    break;
+
+                case "/":
+                    txtScreen.Text = $"{num1 / num2}";
+                    break;
+
+                case "-":
+                    txtScreen.Text = $"{num1 - num2}";
                     break;
             }
         }
